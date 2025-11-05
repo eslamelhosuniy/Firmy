@@ -45,5 +45,3 @@ It helps users search legal texts, review contracts, and verify compliance again
 | **Vector Store** | FAISS  |
 | **Deployment** | Docker |
 
-npm run dev     # For frontend
-python app.py   # Or node server.js for backend
